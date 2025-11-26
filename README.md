@@ -1,5 +1,5 @@
 <h1>Hi, I'm Suzie 👋</h1>
-<p>A passionate full-stack developer from South Korea. I major in Information Systems and minor in Statistics.</p>
+<p>I am currently a Masters of Information Systems Management student at Carnegie Mellon University. I am interested in software development, data-driven applications, and AI in education.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
